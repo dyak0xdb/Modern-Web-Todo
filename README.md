@@ -38,9 +38,9 @@ The CSS styling and advanced visual effects of this project were created and opt
 ## 🚀 Installation & Usage
 
 1. **Clone the repository:**
-```bash
 
-git clone https://github.com/dyak0xdb/Glassmorphism-Todo-App.git
+```bash
+git clone https://github.com/dyak0xdb/Modern-Web-Todo.git
 ```
 
 
